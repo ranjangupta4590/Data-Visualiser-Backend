@@ -1,0 +1,29 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Data Visualiser Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1",
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranjangupta4590/Data-Visualiser-Backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ranjangupta4590/Data-Visualiser-Backend/issues"
+  },
+  "homepage": "https://github.com/ranjangupta4590/Data-Visualiser-Backend#readme"
+}
